@@ -1,5 +1,5 @@
-hi, i'm julia! 👋 
+Hi there, I'm Julia! 👋 
 
-i'm currently a sophomore at stanford university studying computer science with a focus on artificial intelligence to tackle sociopolitical issues. i want to use technology to fight for an equitable future focused on community care and free of exploitative institutions and unjust practices. at the same time, i understand technology's limitations and strive to use my understanding of it to ensure that it is used ethically. 
+I study Computer Science and Comparative Studies in Race & Ethnicity at Stanford, and my work focuses on using artificial intelligence to tackle sociopolitical issues. I'm currently at The Data Nutrition Project, where I'm employing machine learning and data analysis to examine the impact of data bias against Asian American communities as well as building a framework to determine when race data can and should be included in algorithmic decision-making systems. 
 
-i would love to collaborate on any projects making strides towards the liberation of marginalized folks and the planet. you can reach me at juliabiswas@stanford.edu
+I would love to collaborate on any technical projects making strides toward the liberation of marginalized folks and the planet. You can reach me at jubiswas@stanford.edu!
